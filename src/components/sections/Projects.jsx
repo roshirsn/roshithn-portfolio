@@ -156,7 +156,7 @@ export const Projects = () => {
                   href="#"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
-                  View Project →http://socialbook-24.s3-website.us-east-2.amazonaws.com/
+                  View Project →<a>http://socialbook-24.s3-website.us-east-2.amazonaws.com</a>
                 </a>
               </div>
             </div>
