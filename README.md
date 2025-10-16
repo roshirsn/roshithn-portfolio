@@ -147,7 +147,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📬 Contact
 
 Roshith N
-[roshithn@example.com](mailto:roshithnofficial@gmail.com)
+[roshithnofficial@gmail.com](mailto:roshithnofficial@gmail.com)
 
 ## 💖 Thanks
 
