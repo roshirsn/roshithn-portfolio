@@ -126,9 +126,9 @@ portfolio/
 └── vite.config.js
 ```
 
-## 📸 Screenshots
+## 📸 Check it out
 
-(Add screenshots of your portfolio website here to showcase its design and functionality.)
+https://roshirsn.github.io/roshithn-portfolio/
 
 ## 🤝 Contributing
 
