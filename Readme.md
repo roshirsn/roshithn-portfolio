@@ -8,7 +8,8 @@ This is a personal portfolio website built with React to showcase my skills and 
 
 ## 🛠️ Tech Stack
 
-- ⚛️ React
+-  React
+- Tailwind CSS
 
 
 ## 📦 Key Dependencies
